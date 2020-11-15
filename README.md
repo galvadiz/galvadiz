@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://pa1.narvii.com/6857/dd2abcaa15ebec9db6b650079f9a65cc1930ba3d_hq.gif">
 
 <!--
