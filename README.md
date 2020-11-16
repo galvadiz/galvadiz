@@ -1,7 +1,7 @@
 <p align = "center">
 <img src="https://pa1.narvii.com/6857/dd2abcaa15ebec9db6b650079f9a65cc1930ba3d_hq.gif">
 </p>
-<details open>
+<details close>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <div align = "center">
@@ -22,12 +22,14 @@
  
  </p>
 </details>
+<details close>
+ <summary><b>Mejores repositorios</b>: </summary>
 <p align=center>
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=galvadiz&repo=2020-deis-chile-deaths&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF">
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=galvadiz&repo=2020-deis-chile-deaths&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF&hide_border=true">
 
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=DCC-CC4401&repo=SchoolDrive&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF">
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=DCC-CC4401&repo=SchoolDrive&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF&hide_border=true">
  </p>
-
+</details>
 <!--
 **galvadiz/galvadiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
