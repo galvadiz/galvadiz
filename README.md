@@ -18,8 +18,11 @@
  <img src = "https://stats-github.vercel.app/api/top-langs/?username=galvadiz&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF&langs_count=8&exclude_repo=stats-github,termito"> 
    
 </div>
+<p align=center>
+ 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=DCC-CC4401&repo=SchoolDrive&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF)](https://ejemplo.com) [![](https://github-readme-stats.vercel.app/api/pin/?username=DCC-CC4401&repo=SchoolDrive&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF)](https://ejemplo.com)
 
-
+</p>
 </details>
 <br>
 <p align = "center">
