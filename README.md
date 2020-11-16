@@ -17,7 +17,6 @@
    
 </div>
 <p align=center>
-
  <img src = "https://stats-github.vercel.app/api/top-langs/?username=galvadiz&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF&langs_count=8&exclude_repo=stats-github,termito&hide_border=true"> 
  
  </p>
@@ -25,9 +24,12 @@
 <details close>
  <summary><b>Mejores repositorios</b>: </summary>
 <p align=center>
+<a href="https://github.com/galvadiz/2020-deis-chile-deaths">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=galvadiz&repo=2020-deis-chile-deaths&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF&hide_border=true">
-
+ </a>
+ <a href="https://github.com/DCC-CC4401/SchoolDrive">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=DCC-CC4401&repo=SchoolDrive&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF&hide_border=true">
+ </a>
  </p>
 </details>
 <!--
