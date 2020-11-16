@@ -20,14 +20,20 @@
 </div>
 </details>
 <br>
-<div style="width:100%;text-align: center;">
-<div style="width:45%;">
+<p align = "center">
+<table cellspacing="0" cellpadding="0">
+ <tr>
+  <th width="50%" >
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=galvadiz&repo=2020-deis-chile-deaths&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF">
-</div>
-<div style="width:45%;">
+  </th>
+  <th width="50%">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=DCC-CC4401&repo=SchoolDrive&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF">
- </div>
-</div>
+ </th>
+ </tr>
+ </table>
+ </p>
+
+
 <br>
 
 <!--
