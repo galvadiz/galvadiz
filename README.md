@@ -20,11 +20,14 @@
 </div>
 </details>
 <br>
-<p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=galvadiz&repo=2020-deis-chile-deaths&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF&card_height=50">
-
+<div style="width:100%;text-align: center;">
+<div style="width:45%;">
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=galvadiz&repo=2020-deis-chile-deaths&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF">
+</div>
+<div style="width:45%;">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=DCC-CC4401&repo=SchoolDrive&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF">
-</p>
+ </div>
+</div>
 <br>
 
 <!--
