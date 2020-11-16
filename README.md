@@ -18,22 +18,21 @@
  <img src = "https://stats-github.vercel.app/api/top-langs/?username=galvadiz&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF&langs_count=8&exclude_repo=stats-github,termito"> 
    
 </div>
+
+
 </details>
 <br>
 <p align = "center">
-<table cellspacing="0" cellpadding="0">
- <tr>
-  <th width="50%" >
+<div style="width:80%">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=galvadiz&repo=2020-deis-chile-deaths&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF">
-  </th>
-  <th width="50%">
+  </div>
+  
+  <div style="width:50%">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=DCC-CC4401&repo=SchoolDrive&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF">
- </th>
- </tr>
- </table>
+ </div>
+ 
+ 
  </p>
-
-
 <br>
 
 <!--
