@@ -23,11 +23,10 @@
 </details>
 <br>
 <p align = "center">
-<div style="width:80%">
+<div width="50%">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=galvadiz&repo=2020-deis-chile-deaths&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF">
   </div>
-  
-  <div style="width:50%">
+<div width="50%">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=DCC-CC4401&repo=SchoolDrive&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF">
  </div>
  
