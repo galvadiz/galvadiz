@@ -10,7 +10,7 @@
 <br>
 <div align = "center">
 -->
-
+<!--
  <img src = "https://stats-github.vercel.app/api?username=galvadiz&show_icons=true&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF&icon_color=00D9CC&line_height=30&count_private=true&hide=stars,prs,issues&custom_title=Geradine's%20Github%20Stats&hide_border=true&hide_rank=false&include_all_commits=true">
  
 <img src = "https://github-readme-stats.vercel.app/api?username=galvadiz&show_icons=true&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF&icon_color=00D9CC&line_height=30&count_private=true&hide=stars,prs,issues&custom_title=Geradine's%20Github%20Stats&hide_border=true&hide_rank=false&include_all_commits=true">
