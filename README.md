@@ -6,7 +6,7 @@
 <img src="https://1.bp.blogspot.com/-OxcP3xOqIoU/WD6UzaEG0jI/AAAAAAAEWnE/3WYjKn_a_WkzldlNGCs7K3sK2KRPHSmIQCLcB/s1600/AS001894_00.gif">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvadiz&layout=compact)](https://github.com/galvadiz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvadiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--<details close>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
