@@ -1,20 +1,22 @@
 <p align = "center">
 <img src="https://pa1.narvii.com/6857/dd2abcaa15ebec9db6b650079f9a65cc1930ba3d_hq.gif">
 </p>
+
+<p align = "center">
+<img src="https://1.bp.blogspot.com/-OxcP3xOqIoU/WD6UzaEG0jI/AAAAAAAEWnE/3WYjKn_a_WkzldlNGCs7K3sK2KRPHSmIQCLcB/s1600/AS001894_00.gif">
+</p>
 <!--<details close>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <div align = "center">
 -->
- <!--
+
  <img src = "https://stats-github.vercel.app/api?username=galvadiz&show_icons=true&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF&icon_color=00D9CC&line_height=30&count_private=true&hide=stars,prs,issues&custom_title=Geradine's%20Github%20Stats&hide_border=true&hide_rank=false&include_all_commits=true">
  
--->
-<!--
 <img src = "https://github-readme-stats.vercel.app/api?username=galvadiz&show_icons=true&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF&icon_color=00D9CC&line_height=30&count_private=true&hide=stars,prs,issues&custom_title=Geradine's%20Github%20Stats&hide_border=true&hide_rank=false&include_all_commits=true">
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=galvadiz&title_color=FF0080&bg_color=DEG,FFE7F4,E7FFFF&langs_count=8"> 
 -->
-   
+
 <!--
 </div>
 <p align=center>
